@@ -7,8 +7,14 @@
     padding: 20px;
     display: flex;
     justify-content: space-between;
-
+    background-color: rgba(0, 0, 0, 0.5);
 }
+.navbar nav span {
+    margin: 0 10px;
+    font-size: 16px;
+    color: #fff;
+
+  }
 .logo{
     position: fixed;
     left: 20px;
